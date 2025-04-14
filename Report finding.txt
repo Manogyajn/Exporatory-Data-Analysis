@@ -1,0 +1,13 @@
+1=import python libraries
+2=import csv file
+3=Check head ,shape ,info
+4=drop unrelated/blank columns
+5=check for null values
+6=drop null values
+7=Change data types rename column
+8=describe() method returns description of the data in the Data Frame (i.e. count, mean, std, etc)
+9=plotting a bar chart for Gender and it's count
+10=total number of orders from top 10 states
+11=plotting graphs for marital status , occupation, product category
+12=From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category
+13=CONCLUSION :Married women age group 26-35 yrs from UP,  Maharashtra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
